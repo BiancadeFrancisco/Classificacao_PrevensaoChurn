@@ -1,4 +1,4 @@
-# RegressaoLogistica_PrevensaoChurn
+# Classificacao_PrevensaoChurn
 
 ## Descrição Projeto
 
